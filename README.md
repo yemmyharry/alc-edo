@@ -1,2 +1,2 @@
 "alc-edo" 
-BEnjamin Anyigor (BEN10)
+Benjamin Anyigor (BEN10)
