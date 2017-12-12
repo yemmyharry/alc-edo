@@ -1,5 +1,6 @@
 "alc-edo" 
 
+Funmi
 George Ekpo
 Nosa Daniel
 Olaiya Victor
@@ -8,3 +9,4 @@ Fidelis Umeh (Bukris)
 ifeanyi Madu (android beginner)
 Ekenedilichukwu Ene-Otogbolu
 jonathan
+
