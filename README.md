@@ -1,5 +1,6 @@
 "alc-edo" 
 
+Dezy_official
 Akinlade Damilola
 Funmi
 George Ekpo
