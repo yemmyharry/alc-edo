@@ -1,8 +1,10 @@
-"alc-edo" 
 
-Dezy_official
+"alc-edo"
+Ezo-Ojile Desmond
+
 Akinlade Damilola
 Funmi
+
 George Ekpo
 Nosa Daniel
 Olaiya Victor
