@@ -1,7 +1,10 @@
-"alc-edo" 
+
+"alc-edo"
+Ezo-Ojile Desmond
 
 Akinlade Damilola
 Funmi
+
 George Ekpo
 Nosa Daniel
 Olaiya Victor
@@ -10,3 +13,4 @@ Fidelis Umeh (Bukris)
 ifeanyi Madu (android beginner)
 Ekenedilichukwu Ene-Otogbolu
 jonathan
+Kome Udogu (Galahadius Maximus)
